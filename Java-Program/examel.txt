@@ -1,0 +1,31 @@
+Abstract:
+-class
+-object & Method
+
+Inharitance(Is A rel)
+Has A Relationship
+Polimorphism
+    Method Overloading
+    Method Overriding
+
+Interface:
+-Abstraction
+-Data Hiding
+-Encapsulation
+-Tightly coupld cla
+
+
+
+Vehicle:-
+ no of tyer x;
+ start(); X
+
+Class Vehicle
+{
+ 
+}
+1.A Method without Body (NO implimentation) is known as Abstract Method
+2.Method must always
+3.if a regular class extends an abstract class then the 
+  class must have to implement all the abstract method of abstract
+  parent class or it has to be declared abstract as well
